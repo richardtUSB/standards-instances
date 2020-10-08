@@ -2,6 +2,6 @@
 
 Common instances to be used across all observatories.
 
-[Disciplines](../instances/disciplines.json)
+[Test](./test.json)
 
 [Aggregations](../instances/aggregations.json)

@@ -2,6 +2,11 @@
 
 Common instances to be used across all observatories.
 
-[Test](./test.json)
 
 [Aggregations](../instances/aggregations.json)
+
+
+[Test JSON File](../assets/instances/test.json)
+
+
+![Wind turbine](../assets/images/wind-turbine.jpg)
